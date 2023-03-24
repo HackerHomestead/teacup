@@ -1,0 +1,4 @@
+The PCB must have:
+
+USB?
+PS/2?
