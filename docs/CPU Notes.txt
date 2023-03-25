@@ -1,0 +1,25 @@
+#################### Ingenic T31 (88pin QFN) ###################################
+
+32kB Instruction cache, 32kB L1, 128kB L2
+Up to 1.5GHz Clock Speed on the main CPU Core
+1Gb DDR2 RAM onboard (128MB)
+
+RISC-V Core (500MHz)
+I2C, 3x UART, SPI, 2x SD, USB OTG
+
+Internal LCD Support - 800x600 60Hz
+AES256 Hardware Encode/Decode
+Secure Boot
+Native Video Encoding via CCD, up to 2048x2048 resolution
+
+Audio and Video Codecs
+
+###################### Further Features ########################################
+12/24/48MHz Oscillator
+3x PLL (Phase Locked Loops)
+POE, POR, and other Watchdog Timers
+SCL/SDA (I2C) Standards, both 100Kb/s and 400Kb/s
+Full Duplex UART
+64 x 8bit FIFO TX, and 64 x 11bit FIFO RX
+16 or 32 Ohm Audio Output, with a ????? bit DAC
+

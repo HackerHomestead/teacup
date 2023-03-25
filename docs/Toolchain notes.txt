@@ -1,0 +1,5 @@
+You need glibc and the mips-linux-gcc compiler, which can be found on the
+google drive.
+
+An Arch Linux qemu (qcow2) VM will be availible on the google drive soon
+with all the toolchain and libs installed.
