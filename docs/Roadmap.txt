@@ -1,0 +1,20 @@
+These are all the basic out of the box features/attributes of the mainline device 
+1. Has onboard programming language(s) with at least basic IO support built in.
+2. Built in text editor (vi & pico)
+3. NO External IDE required!!! This is a full computer!
+4. Runs Linux kernel by default 
+5. Can boot from "ROM" (NOR)
+6. ROM has area that may be modified but only with a jumper or dip set.
+7. Can boot from SD card
+8. Has two SD card slots 
+9. NOR memory contains tools to create a boot SD card
+10. Serial console by default (UART)
+11. With adapter can be accessed from even a "retro" computer 
+12. USB Serial Console by default
+13. USB Networking????
+14. Webasm (frame buffer)/browser console???
+15. Headset jack by default
+16. Audio data loader/writer (soft modem )
+17. Program existing maker modules via SPI & GPIO
+18. Remaining pins brought out to expansion headers 
+19. The device should work in 10 or 20 years when the tween now has children of their own. Without any additional software or accessories
