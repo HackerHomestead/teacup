@@ -21,7 +21,7 @@ join our [commuinty Discord Server](https://discord.gg/nxjvqgFQgJ)
 
 ## External links
 * [Google Drive](https://drive.google.com/drive/u/1/folders/1BEhvPF5wQ0bi8qQTojf_yk7Au3pODrgF)
-* [MIPS GCC Toolchain]()
+* [MIPS GCC Toolchain](https://drive.google.com/file/d/13-upgyvXytasOUA2UAwAwBOmOL2-lcfM/view)
 * [Ingenic T31 Datasheet](https://drive.google.com/file/d/12MYs0BrT4tRH-UkWt7oT5_zm6LXiKhQJ/view)
 * [Ingenic T31(ZX) SDK](https://github.com/HackerHomestead/Ingenic-SDK-T31-1.1.1-20200508)
 * [Ingenic T31 Design Docs](https://drive.google.com/file/d/1u1oQInZgQonMenszIMkonlOMmzxKc2aA/view)
