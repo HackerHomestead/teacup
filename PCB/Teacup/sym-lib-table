@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "T31ZX")(type "KiCad")(uri "${KIPRJMOD}/../Library/Symbols/T31ZX.kicad_sym")(options "")(descr ""))
+  (lib (name "SFW15R-2STE1LF")(type "KiCad")(uri "${KIPRJMOD}/../Library/Symbols/SFW15R-2STE1LF.kicad_sym")(options "")(descr ""))
 )
