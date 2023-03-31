@@ -59,6 +59,19 @@ Having this in mind, the tools we are using in this project are:
 * [Hacker Homestead YouTube Channel](https://www.youtube.com/@hackerhomestead)
 
 ----
+## Thanks
+To everyone who has worked with us on Tea Cup, we thank you sincerely. It has
+been, and will continue to be an honour working with you.
+
+Thank you so much to the **core-dev** team for your continued work and effort 
+with us on Tea Cup, without you this would have been impossible.  
+* [BogdanTheGeek](https://github.com/BogdanTheGeek)
+* [CapitainRon]
+* [HandyHacker](https://github.com/HackerHomestead)
+* [ADBeta](https://github.com/ADBeta)
+
+Thank you
+
 ## LICENCE
 This project is under the GPL2.0 Licence. See LICENCE for more information.  
 (c) 2023 ADBeta
