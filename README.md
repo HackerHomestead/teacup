@@ -66,7 +66,7 @@ been, and will continue to be an honour working with you.
 Thank you so much to the **core-dev** team for your continued work and effort 
 with us on Tea Cup, without you this would have been impossible.  
 * [BogdanTheGeek](https://github.com/BogdanTheGeek)
-* [CapitainRon]
+* [CaptainRon](https://github.com/CapnRon)
 * [HandyHacker](https://github.com/HackerHomestead)
 * [ADBeta](https://github.com/ADBeta)
 
@@ -74,4 +74,4 @@ Thank you
 
 ## LICENCE
 This project is under the GPL2.0 Licence. See LICENCE for more information.  
-(c) 2023 ADBeta
+(c) 2023 HomesteadHacker
