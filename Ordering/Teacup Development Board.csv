@@ -1,0 +1,23 @@
+"null","Sourced","Placed","References","Value","Footprint","Quantity"
+1,"","","C23, C24, C25, C26, C28, C30, C31, C32, C34, C35, C36, C37, C38, C39, C40, C41, C42, C43, C44, C45, C46","100nF","C_0402_1005Metric",21
+2,"","","C3, C6, C9, C12, C15, C18, C19","100nF","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",7
+3,"","","C1, C4, C7, C10, C13, C16","10uF","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",6
+4,"","","C2, C5, C8, C11, C14, C17","1uF","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",6
+5,"","","C20, C21","12pF","C_0402_1005Metric",2
+6,"","","C22","4.7uF","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",1
+7,"","","R0, R1, R10, R11, R12, R13, R14","100k","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder",7
+8,"","","R2, R3, R6, R7, R8, R9","0R","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder",6
+9,"","","R15, R16, R17, R18, R19, R20","47k","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder",6
+10,"","","R4, R5","5k1","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder",2
+11,"","","R21","1M","R_0402_1005Metric",1
+12,"","","D1","D_TVS_Dual_AAC","SOT-323_SC-70",1
+13,"","","U1","AZ1117-3.3","SOT-223-3_TabPin2",1
+14,"","","U2","AZ1117-1.8","SOT-223-3_TabPin2",1
+15,"","","U3","MCP1826S","SOT-223-3_TabPin2",1
+16,"","","U4","W25Q32JVSS","SOIC-8_5.23x5.23mm_P1.27mm",1
+17,"","","Y1","24 MHz","Crystal_SMD_2016-4Pin_2.0x1.6mm",1
+18,"","","IC1","T31ZX","QFN35P900X900X90-89N-D",1
+19,"","","J1","USB Type-C","USB_C_Receptacle_HRO_TYPE-C-31-M-12",1
+20,"","","J2","SD_Card","SD_Hirose_DM1AA_SF_PEJ82",1
+21,"","","J3","SFW15R-2STE1LF","SFW15R2STE1LF",1
+22,"","","J8","DC_IN","BarrelJack_Wuerth_6941xx301002",1
