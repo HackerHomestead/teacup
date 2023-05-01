@@ -16,6 +16,13 @@ This project is currently in alpha, with a small team working on it, you can
 join our [commuinty Discord Server](https://discord.gg/nxjvqgFQgJ)
 
 ----
+## RevA Board Pictures
+![boardpic1](https://github.com/HackerHomestead/teacup/blob/main/Artwork/Teacup.png)
+![boardpic2](https://github.com/HackerHomestead/teacup/blob/main/Artwork/TeacupOffset.png)
+![boardpic3](https://github.com/HackerHomestead/teacup/blob/main/Artwork/Teacup_HandAssembled.png)
+
+
+----
 ## Tools We Use
 *All* of the work we are doing on Tea Cup, and any future projects are strictly
 open-source only whenever possible, This means we do not distrubiute any CAD, 
@@ -47,7 +54,7 @@ Having this in mind, the tools we are using in this project are:
 * Discord Server with management and co-ordination systems
 
 ## Long Term TODO
-* A lot :)
+* Check out the master [Teacup project board](https://github.com/users/HackerHomestead/projects/1/views/1)
 
 ## External links
 * [Google Drive](https://drive.google.com/drive/u/1/folders/1BEhvPF5wQ0bi8qQTojf_yk7Au3pODrgF)
@@ -57,7 +64,7 @@ Having this in mind, the tools we are using in this project are:
 * [Ingenic T31 Design Docs](https://drive.google.com/file/d/1u1oQInZgQonMenszIMkonlOMmzxKc2aA/view)
 
 * [Hacker Homestead YouTube Channel](https://www.youtube.com/@hackerhomestead)
-
+* [WLTechBlog](https://www.youtube.com/@wltechblog6330)
 ----
 ## Thanks
 To everyone who has worked with us on Tea Cup, we thank you sincerely. It has
@@ -65,10 +72,9 @@ been, and will continue to be an honour working with you.
 
 Thank you so much to the **core-dev** team for your continued work and effort 
 with us on Tea Cup, without you this would have been impossible.  
-* [BogdanTheGeek](https://github.com/BogdanTheGeek)
-* [CaptainRon](https://github.com/CapnRon)
 * [HandyHacker](https://github.com/HackerHomestead)
-* [ADBeta](https://github.com/ADBeta)
+* [CaptainRon](https://github.com/CapnRon)
+* [BogdanTheGeek](https://github.com/BogdanTheGeek)
 
 Thank you
 
