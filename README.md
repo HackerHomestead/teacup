@@ -17,7 +17,7 @@ join our [commuinty Discord Server](https://discord.gg/nxjvqgFQgJ)
 
 ----
 ## RevA Board Pictures
-![boardpic1](https://github.com/HackerHomestead/teacup/blob/main/Artwork/Teacup.png)
+![boardpic1](https://github.com/HackerHomestead/teacup/blob/main/Artwork/Teacup_PCB.png)
 ![boardpic2](https://github.com/HackerHomestead/teacup/blob/main/Artwork/TeacupOffset.png)
 ![boardpic3](https://github.com/HackerHomestead/teacup/blob/main/Artwork/Teacup_HandAssembled.png)
 
