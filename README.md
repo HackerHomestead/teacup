@@ -52,6 +52,7 @@ Having this in mind, the tools we are using in this project are:
 * Reverse engineering of the "$1 webcam" PCB, with full Serial comms
 * binwalk'd "$1 webcam" Firmware and working on Reverse Engineering
 * Discord Server with management and co-ordination systems
+* PCB Design and low volume boards for the first batch of REV-A prototypes
 
 ## Long Term TODO
 * Check out the master [Teacup project board](https://github.com/users/HackerHomestead/projects/1/views/1)
